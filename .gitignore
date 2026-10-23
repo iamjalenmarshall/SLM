@@ -1,0 +1,6 @@
+# Jupyter
+.ipynb_checkpoints/
+
+SLM.ipynb
+*.bin
+*.pt
